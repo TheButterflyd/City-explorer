@@ -1,4 +1,3 @@
 # City-explorer
-Mini-site de prezentare a unor destinații turistice,
-realizat în cadrul disciplinei Tehnologii Web.
-Autor: Fluturas Alexandru - Daris
+Mini-Website Presentation for Tourist Destinations, Web Technologies College Project.
+Author: Fluturas Alexandru - Daris
